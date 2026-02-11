@@ -1,4 +1,4 @@
-# Thesis project: Legal action vs. counterfeiting (fashion)
+# Thesis project: Assessing Legal Action Against Counterfeiting: Financial Outcomes for Fashion Brands
 
 This repo contains the datasets (raw → cleaned) and the R code I used in my thesis on the financial impact of legal action against counterfeiting in the fashion industry.
 
