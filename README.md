@@ -1,8 +1,4 @@
-# legal-action-counterfeiting-financial-impact
-
-Quantitative analysis of the financial impact of legal action against counterfeiting on fashion brands using R.
-
-# Thesis project: Legal action vs. counterfeiting (fashion)
+# thesis-project-legal-action-counterfeiting-financial-impact
 
 This repo contains the datasets (raw → cleaned) and the R code I used in my thesis on the financial impact of legal action against counterfeiting in the fashion industry.
 
